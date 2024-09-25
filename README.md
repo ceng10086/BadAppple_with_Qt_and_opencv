@@ -1,0 +1,2 @@
+# BadAppple_with_Qt_and_opencv
+使用opencv和qt播放背景透明的BadApple，也适用于其他的视频
